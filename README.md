@@ -22,6 +22,12 @@ cnpm i --save @angular/animations@7.0.4
 cnpm i --save hammerjs@2.0.8
 ```
 
+* main.ts中加入hammerjs
+
+```
+import 'hammerjs';
+```
+
 ## import BrowserAnimationsModule to app.module
 
 ```
